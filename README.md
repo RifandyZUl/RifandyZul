@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-📚 Currently exploring <strong>Next.js + Express.js</strong>, <strong>React.js</strong>, and <strong>Cloud Computing</strong> to enhance full-stack expertise.<br/>
+📚 Currently exploring <strong>Node.js + Express.js</strong>, <strong>React.js</strong>, and <strong>Cloud Computing</strong> to enhance full-stack expertise.<br/>
 🤝 Open to freelance projects, collaborations, and exciting opportunities.<br/>
 🎯 Mission: To design and deliver software that empowers individuals and drives business growth.
 </div>
@@ -45,6 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
