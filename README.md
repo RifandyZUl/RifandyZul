@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">💻 Software Engineer | Web & Mobile Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">💻 Software Engineer | AI Engineer</h3>
 
 <p align="center">
 ✨ Focused on building scalable applications, exploring cutting-edge technologies, and transforming ideas into impactful digital solutions.
