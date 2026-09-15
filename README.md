@@ -1,35 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=750&height=80&duration=3500&pause=800&color=DA0C81&background=FFDEE9,DAE2F8&lines=Hi+There!+👋;I'm+Zul+Tiandra+Rifandy;Crafting+Digital+Solutions+✨" />
-</h1>
-
-
-<h3 align="center">💻 Software Engineer | AI Engineer</h3>
-
-<p align="center">
-✨ Focused on building scalable applications, exploring cutting-edge technologies, and transforming ideas into impactful digital solutions.
-</p>
-
-<br/>
-
-<div align="center">
-📚 Currently exploring <strong>Node.js + Express.js</strong>, <strong>React.js</strong>, and <strong>Cloud Computing</strong> to enhance full-stack expertise.<br/>
-🤝 Open to freelance projects, collaborations, and exciting opportunities.<br/>
-🎯 Mission: To design and deliver software that empowers individuals and drives business growth.
-</div>
-
-<br/>
-
-<div align="center"> 
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/yourig/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=750&height=80&duration=3500&pause=800&color=DA0C81&background=FFDEE9,DAE2F8&lines=Halo%2C+saya+Zul+Tiandra+Rifandy+%F0%9F%91%8B;Software+Engineer+%7C+AI+Engineer;Deep+Learning+%C3%97+Medical+Imaging+%E2%9C%A8" /> </h1> <p align="center"> <img src="https://img.shields.io/badge/AI%20Engineer-DA0C81?style=for-the-badge" /> <img src="https://img.shields.io/badge/Software%20Engineer-0A66C2?style=for-the-badge" /> </p> <p align="center"> 🧠 Fokus pada <strong>deep learning untuk medical image segmentation</strong> dan <strong>pengembangan software full-stack</strong>.<br/> 🎓 Lulusan Teknik Informatika, Universitas Esa Unggul (IPK 3.75).<br/> 🤝 Terbuka untuk peluang kerja, kolaborasi riset, dan proyek freelance. </p> <p align="center"> <a href="mailto:rzultiandra@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/zul-tiandra-rifandy" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <br/>
 
 <h2 align="center">🛠️ Languages • Frameworks • Tools</h2>
 <br/>
